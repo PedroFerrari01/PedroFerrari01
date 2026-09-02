@@ -1,6 +1,6 @@
 # Pedro Ferrari
 
-Estudante de Análise e Sistemas Desenvolvimento · Foco em Java, POO e Regras de Negócio
+Estudante de Análise e Desenvolvimento de Sistemas · Desenvolvedor Java & Backend
 
 <p align="left">
   <img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=java&logoColor=white" />
@@ -11,26 +11,29 @@ Estudante de Análise e Sistemas Desenvolvimento · Foco em Java, POO e Regras d
 
 ---
 
-## Sobre mim
+## Perfil Profissional
 
-Estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi, com foco no ecossistema Java e Programação Orientada a Objetos. Desenvolvo aplicações voltadas para a estruturação de regras de negócio, modelagem de dados e simulação de cenários reais de mercado.
+Estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi, com foco em desenvolvimento backend, Programação Orientada a Objetos (POO) e modelagem de dados. Atuação voltada à estruturação de regras de negócio, arquitetura de sistemas e implementação de fluxos lógicos aplicados ao mercado.
 
-- **Formação:** ADS @ Universidade Anhembi Morumbi
-- **Foco atual:** Arquitetura orientada a objetos, estruturas de dados e persistência com MySQL.
-- **Portfólio ativo:** Documentação contínua de padrões de projeto e lógica em Java.
+---
+
+## Stack Tecnológica
+
+* **Linguagens:** Java (POO, Collections, Streams), JavaScript
+* **Banco de Dados:** MySQL (Modelagem Relacional e Consultas)
+* **Ferramentas & Controle de Versão:** Git, GitHub, VS Code, IntelliJ, Eclipse
 
 ---
 
 ## Projetos em Destaque
 
-| Projeto | Descrição | Stack |
+| Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **[portfolio-java](https://github.com/PedroFerrari01/portfolio-java)** | Repositório centralizado contendo simulações práticas de sistemas (MiniCRM, E-commerce, HelpDesk, Gestão Acadêmica e Sistema Bancário) aplicando pilares da POO. | Java · POO · MySQL |
+| **[portfolio-java](https://github.com/PedroFerrari01/portfolio-java)** | Repositório estruturado contendo simulações de cenários reais de mercado (MiniCRM, E-commerce, HelpDesk, Gestão Acadêmica e Sistema Bancário) com aplicação direta dos pilares de POO. | Java · POO · MySQL |
 
 ---
 
-## Stack
+## Contato
 
-- **Backend / Lógica:** Java (POO, Collections, Streams, Exceções), JavaScript
-- **Banco de Dados:** MySQL, Modelagem Relacional
-- **Ferramentas:** Git, GitHub, VS Code, IntelliJ / Eclipse
+* **E-mail:** [pedrohperrari@gmail.com](mailto:pedrohperrari@gmail.com)
+* **GitHub:** [github.com/PedroFerrari01](https://github.com/PedroFerrari01)
