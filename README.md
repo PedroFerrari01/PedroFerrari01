@@ -35,5 +35,5 @@ Estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Moru
 
 ## Contato
 
-* **E-mail:** [pedrohperrari@gmail.com](mailto:pedrohperrari@gmail.com)
+* **E-mail:** [pedrohperrari@gmail.com](mailto:pedrohpferrari@gmail.com)
 * **GitHub:** [github.com/PedroFerrari01](https://github.com/PedroFerrari01)
