@@ -29,11 +29,13 @@ Estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Moru
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **[portfolio-java](https://github.com/PedroFerrari01/portfolio-java)** | Repositório estruturado contendo simulações de cenários reais de mercado (MiniCRM, E-commerce, HelpDesk, Gestão Acadêmica e Sistema Bancário) com aplicação direta dos pilares de POO. | Java · POO · MySQL |
+| **[EcoDrive](https://github.com/PedroFerrari01/EcoDrive)** | Sistema de gestão operacional de frotas com interface gráfica, automação de consumo e persistência em banco relacional. | Java · Swing · MySQL · JDBC |
+| **[portfolio-java](https://github.com/PedroFerrari01/portfolio-java)** | Repositório estruturado contendo simulações de cenários reais de mercado e aplicação direta dos pilares de POO. | Java · POO · Algoritmos |
 
 ---
 
 ## Contato
 
-* **E-mail:** [pedrohperrari@gmail.com](mailto:pedrohpferrari@gmail.com)
-* **GitHub:** [github.com/PedroFerrari01](https://github.com/PedroFerrari01)
+- **E-mail:** pedrohferrari@gmail.com
+- **LinkedIn:** [Pedro Ferrari](https://www.linkedin.com/in/pedrohpferrari/)
+- **GitHub:** [github.com/PedroFerrari01](https://github.com/PedroFerrari01)
