@@ -29,7 +29,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Moru
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| [ClinicaVida-Java](https://github.com/PedroFerrari01/ClinicaVida-Java) | Sistema de gestão para clínicas médicas com agendamento, prontuário, relatórios financeiros e padrão arquitetural MVC/DAO. | Java • Swing • MySQL • JDBC |
+| [ClinicaVida](https://github.com/PedroFerrari01/ClinicaVida) | Sistema de gestão para clínicas médicas com agendamento, prontuário, relatórios financeiros e padrão arquitetural MVC/DAO. | Java • Swing • MySQL • JDBC |
 | [EcoDrive](https://github.com/PedroFerrari01/EcoDrive) | Sistema de gestão operacional de frotas com interface gráfica, automação de consumo e persistência em banco relacional. | Java • Swing • MySQL • JDBC |
 | [portfolio-java](https://github.com/PedroFerrari01/portfolio-java) | Repositório estruturado contendo simulações de cenários reais de mercado e aplicação direta dos pilares de POO. | Java • POO • Algoritmos |
 
