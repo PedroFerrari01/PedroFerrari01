@@ -1,42 +1,40 @@
 # Pedro Ferrari
+**Desenvolvedor Back-end Java**
 
-Estudante de Análise e Desenvolvimento de Sistemas · Desenvolvedor Java & Backend
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## Perfil Profissional
 
-Estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi, com foco em desenvolvimento backend, Programação Orientada a Objetos (POO) e modelagem de dados. Atuação voltada à estruturação de regras de negócio, arquitetura de sistemas e implementação de fluxos lógicos aplicados ao mercado.
+Estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi, com foco na construção de aplicações Back-end e modelagem de dados. Atuo na tradução de regras de negócio complexas em código limpo, priorizando a precisão lógica, arquiteturas escaláveis e consistência relacional para o desenvolvimento de soluções voltadas ao mercado.
 
 ---
 
-## Stack Tecnológica
+## Competências Técnicas
 
-* **Linguagens:** Java (POO, Collections, Streams), JavaScript
-* **Banco de Dados:** MySQL (Modelagem Relacional e Consultas)
-* **Ferramentas & Controle de Versão:** Git, GitHub, VS Code, IntelliJ, Eclipse
+- **Linguagens & Fundamentos:** Java (POO, Streams, Collections, BigDecimal), JavaScript
+- **Banco de Dados:** MySQL (Modelagem Relacional, DDL/DML, restrições de integridade)
+- **Arquitetura & Práticas:** MVC, Padrão DAO, manipulação de arquivos (I/O)
+- **Ferramentas:** Git, GitHub, IntelliJ IDEA, Eclipse, VS Code
 
 ---
 
 ## Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias |
+| Projeto | Visão Geral | Tecnologias |
 | :--- | :--- | :--- |
-| [ClinicaVida](https://github.com/PedroFerrari01/ClinicaVida) | Sistema de gestão para clínicas médicas com agendamento, prontuário, relatórios financeiros e padrão arquitetural MVC/DAO. | Java • Swing • MySQL • JDBC |
-| [EcoDrive](https://github.com/PedroFerrari01/EcoDrive) | Sistema de gestão operacional de frotas com interface gráfica, automação de consumo e persistência em banco relacional. | Java • Swing • MySQL • JDBC |
-| [portfolio-java](https://github.com/PedroFerrari01/portfolio-java) | Repositório estruturado contendo simulações de cenários reais de mercado e aplicação direta dos pilares de POO. | Java • POO • Algoritmos |
+| **[Clínica Vida](https://github.com/PedroFerrari01/clinica-vida)** | Plataforma de gestão médica. Centraliza prontuários e possui motor de agendamento com validação estrita de conflitos de horário. | Java, Swing, MySQL, JDBC |
+| **[PDV Simples](https://github.com/PedroFerrari01/pdv-simples)** | Frente de caixa comercial via CLI. Garante precisão financeira, baixa de estoque automática e persistência em arquivos CSV. | Java, CLI, java.nio |
+| **[EcoDrive](https://github.com/PedroFerrari01/ecodrive)** | Sistema para gestão operacional de frotas. Focado no cadastro de veículos corporativos e monitoramento logístico estruturado. | Java, Swing, MySQL, JDBC |
+| **[Portfolio Java](https://github.com/PedroFerrari01/portfolio-java)** | Repositório de laboratório prático contendo simulações algorítmicas e aplicação estrutural dos pilares da Orientação a Objetos. | Java, POO, Lógica |
 
 ---
 
 ## Contato
 
-- **E-mail:** pedrohferrari@gmail.com
-- **LinkedIn:** [Pedro Ferrari](https://www.linkedin.com/in/pedrohpferrari/)
-- **GitHub:** [github.com/PedroFerrari01](https://github.com/PedroFerrari01)
+- **E-mail:** [pedrohpferrari@gmail.com](mailto:pedrohpferrari@gmail.com)
+- **LinkedIn:** [linkedin.com/in/pedrohpferrari](https://www.linkedin.com/in/pedrohpferrari/)
