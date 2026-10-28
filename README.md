@@ -1,43 +1,68 @@
-# Pedro Ferrari
-**Desenvolvedor Back-end Java**
+<div align="center">
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
----
+<img src="banner.svg" alt="Pedro Ferrari, desenvolvedor back-end Java" width="100%">
 
-## Perfil Profissional
+**Desenvolvedor back-end Java** · estudante de Análise e Desenvolvimento de Sistemas (Anhembi Morumbi)
 
-Estudante de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi, com foco na construção de aplicações Back-end e modelagem de dados. Atuo na tradução de regras de negócio complexas em código limpo, priorizando a precisão lógica, arquiteturas escaláveis e consistência relacional para o desenvolvimento de soluções voltadas ao mercado.
+[![Email](https://img.shields.io/badge/Email-pedrohpferrari%40gmail.com-F97316?style=flat-square&logo=gmail&logoColor=white)](mailto:pedrohpferrari@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pedrohpferrari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohpferrari/)
+
+</div>
 
 ---
 
-## Competências Técnicas
+Gosto de transformar regra de negócio em sistema que funciona. Cálculo de folha com INSS por faixas, agenda médica que não aceita dois pacientes no mesmo horário, catraca que bloqueia o aluno com mensalidade atrasada: são problemas reais, e é neles que eu mais aprendo.
 
-- **Linguagens & Fundamentos:** Java (POO, Streams, Collections, BigDecimal), JavaScript
-- **Banco de Dados:** MySQL (Modelagem Relacional, DDL/DML, restrições de integridade)
-- **Arquitetura & Práticas:** MVC, Padrão DAO, manipulação de arquivos (I/O)
-- **Ferramentas:** Git, GitHub, IntelliJ IDEA, Eclipse, VS Code
+**Procurando estágio em desenvolvimento back-end Java.**
 
----
+## Projeto principal: GymSync
 
-## Projetos em Destaque
+[![Página de apresentação do GymSync, com um halter 3D](https://raw.githubusercontent.com/PedroFerrari01/GymSync/main/docs/img/quem-somos.jpg)](https://github.com/PedroFerrari01/GymSync)
 
-| Projeto | Visão Geral | Tecnologias |
+Sistema web de gestão de academias, feito em grupo de 4 pessoas com **Java 25, Spring Boot 4, MySQL e Thymeleaf**.
+
+- Matrícula gera as mensalidades; a mensalidade vira atrasada sozinha; a catraca só libera quem está em dia.
+- Três perfis (administrador, professor e aluno), cada um com o próprio acesso, cobertos por 44 testes automatizados.
+- Fichas de treino, avaliações físicas, aulas coletivas, pagamento por Pix (simulado), relatórios e mensagens.
+
+**[Ver o repositório →](https://github.com/PedroFerrari01/GymSync)**
+
+## Outros projetos
+
+| Projeto | O que resolve | Feito com |
 | :--- | :--- | :--- |
-| **[RH Folha](https://github.com/PedroFerrari01/rh-folha)** | Sistema corporativo de gestão de RH. Automatiza cálculos de folha de pagamento com tributação progressiva real (INSS/IRRF). | Java, Swing, MySQL, JDBC |
-| **[Clínica Vida](https://github.com/PedroFerrari01/clinicavida)** | Plataforma de gestão médica. Centraliza prontuários e possui motor de agendamento com validação estrita de conflitos de horário. | Java, Swing, MySQL, JDBC |
-| **[PDV Simples](https://github.com/PedroFerrari01/pdv-simples)** | Frente de caixa comercial via CLI. Garante precisão financeira, baixa de estoque automática e persistência em arquivos CSV. | Java, CLI, java.nio |
-| **[EcoDrive](https://github.com/PedroFerrari01/ecodrive)** | Sistema para gestão operacional de frotas. Focado no cadastro de veículos corporativos e monitoramento logístico estruturado. | Java, Swing, MySQL, JDBC |
-| **[Portfolio Java](https://github.com/PedroFerrari01/portfolio-java)** | Repositório de laboratório prático contendo simulações algorítmicas e aplicação estrutural dos pilares da Orientação a Objetos. | Java, POO, Lógica |
+| [RH Folha](https://github.com/PedroFerrari01/Rh-Folha) | Folha de pagamento com INSS por faixas, IRRF e vale-transporte, usando `BigDecimal` | Java, Swing, MySQL |
+| [Clínica Vida](https://github.com/PedroFerrari01/ClinicaVida) | Agenda que bloqueia conflito de horário, prontuário, convênios e relatórios | Java, Swing, MySQL |
+| [PDV Simples](https://github.com/PedroFerrari01/pdv-simples) | Caixa no terminal com desconto, recibo, estoque e dados em CSV | Java |
+| [EcoDrive](https://github.com/PedroFerrari01/EcoDrive) | Cadastro de frota com CRUD completo ligado ao MySQL | Java, Swing, MySQL |
+| [Portfólio Java](https://github.com/PedroFerrari01/portfolio-java) | 23 exercícios de POO com situações do dia a dia | Java |
+
+## Tecnologias
+
+**Linguagem e frameworks**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Banco de dados e ferramentas**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Conceitos:** programação orientada a objetos, padrões MVC e DAO, modelagem relacional com restrições de integridade, JDBC, testes automatizados com JUnit.
+
+## Agora
+
+Estudando Spring Security e proteção de aplicações web, que é a próxima etapa do GymSync antes de colocá-lo na internet.
 
 ---
 
-## Contato
+<div align="center">
 
-- **E-mail:** [pedrohpferrari@gmail.com](mailto:pedrohpferrari@gmail.com)
-- **LinkedIn:** [linkedin.com/in/pedrohpferrari](https://www.linkedin.com/in/pedrohpferrari/)
+[pedrohpferrari@gmail.com](mailto:pedrohpferrari@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pedrohpferrari/)
+
+</div>

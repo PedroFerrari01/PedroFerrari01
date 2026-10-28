@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Pedro Ferrari, desenvolvedor back-end Java">
+  <defs>
+    <pattern id="pontos" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#ffffff" opacity="0.07"/>
+    </pattern>
+    <linearGradient id="brilho" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f97316" stop-opacity="0"/>
+      <stop offset="1" stop-color="#f97316" stop-opacity="0.18"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="#0d0d10"/>
+  <rect width="1200" height="300" rx="20" fill="url(#pontos)"/>
+  <rect x="700" width="500" height="300" rx="20" fill="url(#brilho)"/>
+
+  <!-- halter estilizado, referência ao GymSync -->
+  <g transform="translate(905 150) rotate(-18)" fill="none" stroke="#f97316" stroke-linecap="round">
+    <line x1="-120" y1="0" x2="120" y2="0" stroke-width="10"/>
+    <rect x="-112" y="-52" width="26" height="104" rx="8" stroke-width="8"/>
+    <rect x="-80" y="-38" width="20" height="76" rx="7" stroke-width="8"/>
+    <rect x="86" y="-52" width="26" height="104" rx="8" stroke-width="8"/>
+    <rect x="60" y="-38" width="20" height="76" rx="7" stroke-width="8"/>
+  </g>
+
+  <rect x="64" y="78" width="6" height="144" rx="3" fill="#f97316"/>
+  <text x="96" y="138" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#f4f4f5">Pedro Ferrari</text>
+  <text x="98" y="184" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#f97316">Desenvolvedor back-end Java</text>
+  <text x="98" y="220" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#a7adb8">Spring Boot  ·  MySQL  ·  São Paulo</text>
+</svg>
