@@ -19,7 +19,7 @@ Gosto de transformar regra de negócio em sistema que funciona. Cálculo de folh
 
 [![Página de apresentação do GymSync, com um halter 3D](https://raw.githubusercontent.com/PedroFerrari01/GymSync/main/docs/img/quem-somos.jpg)](https://github.com/PedroFerrari01/GymSync)
 
-Sistema web de gestão de academias, feito em grupo de 4 pessoas com **Java 25, Spring Boot 4, MySQL e Thymeleaf**.
+Sistema web de gestão de academias que desenvolvi do zero, back-end e front-end, com **Java 25, Spring Boot 4, MySQL e Thymeleaf**.
 
 - Matrícula gera as mensalidades; a mensalidade vira atrasada sozinha; a catraca só libera quem está em dia.
 - Três perfis (administrador, professor e aluno), cada um com o próprio acesso, cobertos por 44 testes automatizados.
