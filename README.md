@@ -2,7 +2,7 @@
 
 <img src="banner.svg" alt="Pedro Ferrari, desenvolvedor back-end Java" width="100%">
 
-**Desenvolvedor back-end Java** · estudante de Análise e Desenvolvimento de Sistemas (Anhembi Morumbi) · São Paulo, Brasil
+**Desenvolvedor back-end Java** · estudante de Análise e Desenvolvimento de Sistemas (Anhembi Morumbi)  · São Paulo, Brasil
 
 [![Email](https://img.shields.io/badge/Email-pedrohpferrari%40gmail.com-F97316?style=flat-square&logo=gmail&logoColor=white)](mailto:pedrohpferrari@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pedrohpferrari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohpferrari/)
