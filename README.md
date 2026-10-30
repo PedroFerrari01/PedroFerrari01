@@ -33,31 +33,15 @@ Sistema web de gestão de academias que desenvolvi do zero, back-end e front-end
 
 ## Outros projetos
 
-| Projeto | O que resolve | Feito com |
-| :--- | :--- | :--- |
-| [RH Folha](https://github.com/PedroFerrari01/Rh-Folha) | Folha de pagamento com INSS por faixas, IRRF e vale-transporte, usando `BigDecimal` | Java, Swing, MySQL |
-| [Clínica Vida](https://github.com/PedroFerrari01/ClinicaVida) | Agenda que bloqueia conflito de horário, prontuário, convênios e relatórios | Java, Swing, MySQL |
-| [PDV Simples](https://github.com/PedroFerrari01/pdv-simples) | Caixa no terminal com desconto, recibo, estoque e dados em CSV | Java |
-| [EcoDrive](https://github.com/PedroFerrari01/EcoDrive) | Cadastro de frota com CRUD completo ligado ao MySQL | Java, Swing, MySQL |
-| [Portfólio Java](https://github.com/PedroFerrari01/portfolio-java) | 23 exercícios de POO com situações do dia a dia | Java |
+<a href="https://github.com/PedroFerrari01/Rh-Folha"><img src="img/proj-rh-folha.png" alt="RH Folha: folha de pagamento com INSS por faixas, IRRF e vale-transporte. Java, Swing e MySQL" width="49%"></a>
+<a href="https://github.com/PedroFerrari01/ClinicaVida"><img src="img/proj-clinica-vida.png" alt="Clínica Vida: agenda que bloqueia conflito de horário, prontuário, convênios e relatórios. Java, Swing e MySQL" width="49%"></a>
+<a href="https://github.com/PedroFerrari01/pdv-simples"><img src="img/proj-pdv-simples.png" alt="PDV Simples: caixa no terminal com desconto, recibo, estoque e dados em CSV. Java" width="49%"></a>
+<a href="https://github.com/PedroFerrari01/EcoDrive"><img src="img/proj-ecodrive.png" alt="EcoDrive: cadastro de frota com CRUD completo ligado ao MySQL. Java, Swing e MySQL" width="49%"></a>
+<a href="https://github.com/PedroFerrari01/portfolio-java"><img src="img/proj-portfolio-java.png" alt="Portfólio Java: 23 exercícios de programação orientada a objetos. Java" width="99%"></a>
 
 ## Tecnologias
 
-**Linguagem e frameworks**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Banco de dados e ferramentas**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Conceitos:** programação orientada a objetos, padrões MVC e DAO, modelagem relacional com restrições de integridade, JDBC, testes automatizados com JUnit.
+<img src="img/tecnologias.png" alt="Back-end: Java, Spring Boot, Spring Security, JPA/Hibernate e JUnit. Banco de dados: MySQL e JDBC. Front-end: Thymeleaf, Bootstrap e JavaScript. Ferramentas: Git e GitHub, Maven e Docker. Conceitos: POO, MVC e DAO, modelagem relacional e testes automatizados" width="100%">
 
 ## Agora
 
