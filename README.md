@@ -9,9 +9,9 @@
 
 <br>
 
-Desenvolvedor back-end em formação, focado em Java e Spring Boot. Nos meus projetos já fiz cálculo de folha com INSS por faixas, agenda que não deixa marcar dois pacientes no mesmo horário e catraca que barra quem está com a mensalidade atrasada.
+Estudante de Análise e Desenvolvimento de Sistemas, com formação complementar em Marketing, focado em Java e Spring Boot. Nos meus projetos já fiz cálculo de folha com INSS por faixas, agenda que não deixa marcar dois pacientes no mesmo horário e catraca que barra quem está com a mensalidade atrasada.
 
-**Procurando estágio em back-end Java.**
+**Buscando minha primeira oportunidade: estágio, vaga júnior ou outra função em que eu possa aprender e contribuir.**
 
 ## Projeto principal: GymSync
 
@@ -44,4 +44,4 @@ Sistema web de gestão de academias que desenvolvi do zero, back-end e front-end
 ## Agora
 
 - Estudando segurança de aplicações web: Spring Security e testes com o OWASP ZAP.
-- Buscando estágio em back-end Java. Se tiver uma vaga me chama no [LinkedIn](https://www.linkedin.com/in/pedrohpferrari/).
+- Buscando a primeira oportunidade profissional. Se tiver uma vaga, me chama no [LinkedIn](https://www.linkedin.com/in/pedrohpferrari/).
