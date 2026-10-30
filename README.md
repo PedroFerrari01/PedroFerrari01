@@ -2,14 +2,12 @@
 
 <img src="banner.png" alt="Pedro Ferrari, desenvolvedor back-end Java, com um trecho de código Java ao lado" width="100%">
 
-**Desenvolvedor back-end Java** · estudante de Análise e Desenvolvimento de Sistemas (Anhembi Morumbi)  · São Paulo, Brasil
-
-[![Email](https://img.shields.io/badge/Email-pedrohpferrari%40gmail.com-F97316?style=flat-square&logo=gmail&logoColor=white)](mailto:pedrohpferrari@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pedrohpferrari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohpferrari/)
+<a href="https://www.linkedin.com/in/pedrohpferrari/"><img src="img/botao-linkedin.png" alt="LinkedIn" height="36"></a>
+<a href="mailto:pedrohpferrari@gmail.com"><img src="img/botao-email.png" alt="E-mail: pedrohpferrari@gmail.com" height="36"></a>
 
 </div>
 
----
+<br>
 
 Gosto de transformar regra de negócio em sistema que funciona. Cálculo de folha com INSS por faixas, agenda médica que não aceita dois pacientes no mesmo horário, catraca que bloqueia o aluno com mensalidade atrasada: são problemas reais, e é neles que eu mais aprendo.
 
@@ -45,12 +43,5 @@ Sistema web de gestão de academias que desenvolvi do zero, back-end e front-end
 
 ## Agora
 
-Estudando segurança de aplicações web (Spring Security e testes com o OWASP ZAP) e buscando estágio em back-end Java.
-
----
-
-<div align="center">
-
-[pedrohpferrari@gmail.com](mailto:pedrohpferrari@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pedrohpferrari/)
-
-</div>
+- Estudando segurança de aplicações web: Spring Security e testes com o OWASP ZAP.
+- Buscando estágio em back-end Java. Se tiver uma vaga ou quiser trocar uma ideia, me chama no [LinkedIn](https://www.linkedin.com/in/pedrohpferrari/).
