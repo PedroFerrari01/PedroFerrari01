@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Pedro Ferrari, desenvolvedor back-end Java" width="100%">
+<img src="banner.png" alt="Pedro Ferrari, desenvolvedor back-end Java, com um trecho de código Java ao lado" width="100%">
 
 **Desenvolvedor back-end Java** · estudante de Análise e Desenvolvimento de Sistemas (Anhembi Morumbi)  · São Paulo, Brasil
 
