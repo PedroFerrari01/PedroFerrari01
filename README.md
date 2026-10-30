@@ -9,9 +9,9 @@
 
 <br>
 
-Gosto de transformar regra de negócio em sistema que funciona. Cálculo de folha com INSS por faixas, agenda médica que não aceita dois pacientes no mesmo horário, catraca que bloqueia o aluno com mensalidade atrasada: são problemas reais, e é neles que eu mais aprendo.
+Desenvolvedor back-end em formação, focado em Java e Spring Boot. Nos meus projetos já fiz cálculo de folha com INSS por faixas, agenda que não deixa marcar dois pacientes no mesmo horário e catraca que barra quem está com a mensalidade atrasada.
 
-**Procurando estágio em desenvolvimento back-end Java.**
+**Procurando estágio em back-end Java.**
 
 ## Projeto principal: GymSync
 
