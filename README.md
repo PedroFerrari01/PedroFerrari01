@@ -17,16 +17,19 @@ Gosto de transformar regra de negócio em sistema que funciona. Cálculo de folh
 
 ## Projeto principal: GymSync
 
-[![Página de apresentação do GymSync, com um halter 3D](https://raw.githubusercontent.com/PedroFerrari01/GymSync/main/docs/img/quem-somos.jpg)](https://github.com/PedroFerrari01/GymSync)
+**[Testar online como visitante →](https://gymsync-ucfj.onrender.com)** · **[Ver o repositório →](https://github.com/PedroFerrari01/GymSync)**
+
+<a href="https://github.com/PedroFerrari01/GymSync"><img src="https://raw.githubusercontent.com/PedroFerrari01/GymSync/main/docs/img/painel-admin.jpg" alt="Painel do administrador do GymSync" width="32%"></a>
+<a href="https://github.com/PedroFerrari01/GymSync"><img src="https://raw.githubusercontent.com/PedroFerrari01/GymSync/main/docs/img/area-aluno-claro.jpg" alt="Área do aluno do GymSync, no tema claro" width="32%"></a>
+<a href="https://github.com/PedroFerrari01/GymSync"><img src="https://raw.githubusercontent.com/PedroFerrari01/GymSync/main/docs/img/acompanhamento-professor.jpg" alt="Acompanhamento do professor no GymSync" width="32%"></a>
 
 Sistema web de gestão de academias que desenvolvi do zero, back-end e front-end, com **Java 25, Spring Boot 4, MySQL e Thymeleaf**.
 
 - Matrícula gera as mensalidades; a mensalidade vira atrasada sozinha; a catraca só libera quem está em dia.
-- Três perfis (administrador, professor e aluno), cada um com o próprio acesso, protegidos com Spring Security e cobertos por 88 testes automatizados.
-- Fichas de treino, avaliações físicas, aulas coletivas, pagamento por Pix (simulado), relatórios com exportação em planilha e mensagens.
-- No ar na internet (Render e MySQL na Aiven), com proteção CSRF, limite de tentativas de login, recuperação de senha por e-mail e adequação à LGPD.
+- Três perfis (administrador, professor e aluno), protegidos com Spring Security e cobertos por 88 testes automatizados.
+- No ar na internet, com proteção CSRF, limite de tentativas de login, recuperação de senha por e-mail e adequação à LGPD.
 
-**[Ver o repositório →](https://github.com/PedroFerrari01/GymSync)** · **[Testar online como visitante →](https://gymsync-ucfj.onrender.com)** (plano gratuito: a primeira visita pode levar cerca de um minuto)
+*O site roda em plano gratuito: a primeira visita pode levar cerca de um minuto para abrir.*
 
 ## Outros projetos
 
@@ -58,7 +61,7 @@ Sistema web de gestão de academias que desenvolvi do zero, back-end e front-end
 
 ## Agora
 
-Acabei de colocar o GymSync no ar, com Spring Security e proteção contra os ataques mais comuns em aplicações web. O próximo passo é testar a segurança com o OWASP ZAP e seguir buscando estágio em back-end Java.
+Estudando segurança de aplicações web (Spring Security e testes com o OWASP ZAP) e buscando estágio em back-end Java.
 
 ---
 
