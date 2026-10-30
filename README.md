@@ -9,7 +9,7 @@
 
 <br>
 
-Estudante de Análise e Desenvolvimento de Sistemas, com formação complementar em Marketing, focado em Java e Spring Boot. Nos meus projetos já fiz cálculo de folha com INSS por faixas, agenda que não deixa marcar dois pacientes no mesmo horário e catraca que barra quem está com a mensalidade atrasada.
+Estudante de Análise e Desenvolvimento de Sistemas, concluindo também Marketing em 2026, focado em Java e Spring Boot. Nos meus projetos já fiz cálculo de folha com INSS por faixas, agenda que não deixa marcar dois pacientes no mesmo horário e catraca que barra quem está com a mensalidade atrasada.
 
 **Buscando minha primeira oportunidade: estágio, vaga júnior ou outra função em que eu possa aprender e contribuir.**
 
