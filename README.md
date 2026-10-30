@@ -44,4 +44,4 @@ Sistema web de gestão de academias que desenvolvi do zero, back-end e front-end
 ## Agora
 
 - Estudando segurança de aplicações web: Spring Security e testes com o OWASP ZAP.
-- Buscando estágio em back-end Java. Se tiver uma vaga ou quiser trocar uma ideia, me chama no [LinkedIn](https://www.linkedin.com/in/pedrohpferrari/).
+- Buscando estágio em back-end Java. Se tiver uma vaga me chama no [LinkedIn](https://www.linkedin.com/in/pedrohpferrari/).
