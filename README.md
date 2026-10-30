@@ -39,7 +39,7 @@ Sistema web de gestão de academias que desenvolvi do zero, back-end e front-end
 
 ## Tecnologias
 
-<img src="img/tecnologias.png" alt="Back-end: Java, Spring Boot, Spring Security, JPA/Hibernate e JUnit. Banco de dados: MySQL e JDBC. Front-end: Thymeleaf, Bootstrap e JavaScript. Ferramentas: Git e GitHub, Maven e Docker. Conceitos: POO, MVC e DAO, modelagem relacional e testes automatizados" width="100%">
+<img src="img/tecnologias.png" alt="Stack: Java, Spring Boot, Spring Security, JPA/Hibernate, JUnit, MySQL, JDBC, Swing, Thymeleaf, JavaScript, Bootstrap, Git e GitHub, Maven, Docker e Render. Conceitos: POO, MVC, DAO, modelagem relacional, testes automatizados e segurança web" width="100%">
 
 ## Agora
 
